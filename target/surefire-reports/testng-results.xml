@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="16" passed="16" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-11-23T21:25:30 IST" name="Command line suite" finished-at="2022-11-23T21:28:38 IST" duration-ms="187987">
+    <groups>
+    </groups>
+    <test started-at="2022-11-23T21:25:30 IST" name="Command line test" finished-at="2022-11-23T21:28:38 IST" duration-ms="187987">
+      <class name="day3.TestNG1">
+        <test-method signature="createAccount()[pri:0, instance:day3.TestNG1@385c9627]" started-at="2022-11-23T21:27:09 IST" name="createAccount" finished-at="2022-11-23T21:27:09 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAccount -->
+        <test-method signature="logoutAccount()[pri:1, instance:day3.TestNG1@385c9627]" started-at="2022-11-23T21:27:09 IST" name="logoutAccount" finished-at="2022-11-23T21:27:09 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutAccount -->
+        <test-method signature="deleteAccount()[pri:0, instance:day3.TestNG1@385c9627]" started-at="2022-11-23T21:27:09 IST" name="deleteAccount" finished-at="2022-11-23T21:27:09 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteAccount -->
+        <test-method signature="login()[pri:2, instance:day3.TestNG1@385c9627]" started-at="2022-11-23T21:27:09 IST" name="login" finished-at="2022-11-23T21:27:09 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- day3.TestNG1 -->
+      <class name="day3old.LoginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:day3old.LoginTest@139982de]" started-at="2022-11-23T21:27:09 IST" name="setup" finished-at="2022-11-23T21:27:24 IST" duration-ms="15528" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Invalidpassuser()[pri:0, instance:day3old.LoginTest@139982de]" started-at="2022-11-23T21:27:24 IST" name="Invalidpassuser" finished-at="2022-11-23T21:27:26 IST" duration-ms="1899" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Invalidpassuser -->
+        <test-method is-config="true" signature="tearnow()[pri:0, instance:day3old.LoginTest@139982de]" started-at="2022-11-23T21:27:26 IST" name="tearnow" finished-at="2022-11-23T21:27:27 IST" duration-ms="264" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearnow -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:day3old.LoginTest@139982de]" started-at="2022-11-23T21:27:27 IST" name="setup" finished-at="2022-11-23T21:27:48 IST" duration-ms="21236" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="invalidpass()[pri:0, instance:day3old.LoginTest@139982de]" started-at="2022-11-23T21:27:48 IST" name="invalidpass" finished-at="2022-11-23T21:27:52 IST" duration-ms="4346" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invalidpass -->
+        <test-method is-config="true" signature="tearnow()[pri:0, instance:day3old.LoginTest@139982de]" started-at="2022-11-23T21:27:52 IST" name="tearnow" finished-at="2022-11-23T21:27:52 IST" duration-ms="244" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearnow -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:day3old.LoginTest@139982de]" started-at="2022-11-23T21:27:52 IST" name="setup" finished-at="2022-11-23T21:28:09 IST" duration-ms="16745" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="invaliduser()[pri:0, instance:day3old.LoginTest@139982de]" started-at="2022-11-23T21:28:09 IST" name="invaliduser" finished-at="2022-11-23T21:28:13 IST" duration-ms="3776" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- invaliduser -->
+        <test-method is-config="true" signature="tearnow()[pri:0, instance:day3old.LoginTest@139982de]" started-at="2022-11-23T21:28:13 IST" name="tearnow" finished-at="2022-11-23T21:28:13 IST" duration-ms="320" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearnow -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:day3old.LoginTest@139982de]" started-at="2022-11-23T21:28:13 IST" name="setup" finished-at="2022-11-23T21:28:28 IST" duration-ms="14971" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="validuserpass()[pri:0, instance:day3old.LoginTest@139982de]" started-at="2022-11-23T21:28:28 IST" name="validuserpass" finished-at="2022-11-23T21:28:37 IST" duration-ms="9082" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validuserpass -->
+        <test-method is-config="true" signature="tearnow()[pri:0, instance:day3old.LoginTest@139982de]" started-at="2022-11-23T21:28:37 IST" name="tearnow" finished-at="2022-11-23T21:28:38 IST" duration-ms="246" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearnow -->
+      </class> <!-- day3old.LoginTest -->
+      <class name="day3.LoginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:day3.LoginTest@1bb5a082]" started-at="2022-11-23T21:25:30 IST" name="setup" finished-at="2022-11-23T21:25:45 IST" duration-ms="15294" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyForgetPassword()[pri:0, instance:day3.LoginTest@1bb5a082]" started-at="2022-11-23T21:25:45 IST" name="verifyForgetPassword" finished-at="2022-11-23T21:25:45 IST" duration-ms="58" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyForgetPassword -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:day3.LoginTest@1bb5a082]" started-at="2022-11-23T21:25:45 IST" name="teardown" finished-at="2022-11-23T21:25:45 IST" duration-ms="320" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:day3.LoginTest@1bb5a082]" started-at="2022-11-23T21:25:45 IST" name="setup" finished-at="2022-11-23T21:26:38 IST" duration-ms="52936" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifySocialMediaCount()[pri:0, instance:day3.LoginTest@1bb5a082]" started-at="2022-11-23T21:26:38 IST" name="verifySocialMediaCount" finished-at="2022-11-23T21:26:38 IST" duration-ms="22" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySocialMediaCount -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:day3.LoginTest@1bb5a082]" started-at="2022-11-23T21:26:38 IST" name="teardown" finished-at="2022-11-23T21:26:39 IST" duration-ms="307" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:day3.LoginTest@1bb5a082]" started-at="2022-11-23T21:26:39 IST" name="setup" finished-at="2022-11-23T21:26:56 IST" duration-ms="17569" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyTitle()[pri:0, instance:day3.LoginTest@1bb5a082]" started-at="2022-11-23T21:26:56 IST" name="verifyTitle" finished-at="2022-11-23T21:26:56 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:day3.LoginTest@1bb5a082]" started-at="2022-11-23T21:26:56 IST" name="teardown" finished-at="2022-11-23T21:26:56 IST" duration-ms="244" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:day3.LoginTest@1bb5a082]" started-at="2022-11-23T21:26:56 IST" name="setup" finished-at="2022-11-23T21:27:09 IST" duration-ms="12240" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyUrl()[pri:0, instance:day3.LoginTest@1bb5a082]" started-at="2022-11-23T21:27:09 IST" name="verifyUrl" finished-at="2022-11-23T21:27:09 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUrl -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:day3.LoginTest@1bb5a082]" started-at="2022-11-23T21:27:09 IST" name="teardown" finished-at="2022-11-23T21:27:09 IST" duration-ms="272" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- day3.LoginTest -->
+      <class name="day3old.TestNG1">
+        <test-method signature="createAccount()[pri:0, instance:day3old.TestNG1@682b2fa]" started-at="2022-11-23T21:28:38 IST" name="createAccount" finished-at="2022-11-23T21:28:38 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAccount -->
+        <test-method signature="deleteAccount()[pri:0, instance:day3old.TestNG1@682b2fa]" started-at="2022-11-23T21:28:38 IST" name="deleteAccount" finished-at="2022-11-23T21:28:38 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteAccount -->
+        <test-method signature="logoutAccount()[pri:1, instance:day3old.TestNG1@682b2fa]" started-at="2022-11-23T21:28:38 IST" name="logoutAccount" finished-at="2022-11-23T21:28:38 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutAccount -->
+        <test-method signature="login()[pri:2, instance:day3old.TestNG1@682b2fa]" started-at="2022-11-23T21:28:38 IST" name="login" finished-at="2022-11-23T21:28:38 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- day3old.TestNG1 -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
